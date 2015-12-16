@@ -9,6 +9,7 @@ In order to switch a branch or in other words a copy of my project that can be m
 i had to create one which i called test.
 i follow the steps they had me do to fork a repository which is basically copying someone elses project,
 i made some changes and sent it back to them so they can decide if they wish to keep the changes this is called pull request.
-
+the github terminologies where not that difficult after you learn what they meant. 
+most of the time the definition wasnt that far off from what the word is.
 # code-in-repo
 first repository
